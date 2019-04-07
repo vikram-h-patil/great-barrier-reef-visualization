@@ -10,7 +10,7 @@ https://vpatil.shinyapps.io/coral_bleaching_great_barrier_reef
 
     * The working directory needs to have the following files : 
         1. The 'bleaching-data.csv' file and
-        2. R script
+        2. R script (bleaching.R)
     * Having these files will ensure a smooth working of visualization and the shiny app.
     
     
