@@ -12,3 +12,10 @@ https://vpatil.shinyapps.io/coral_bleaching_great_barrier_reef
         1. The 'bleaching-data.csv' file and
         2. R script
     * Having these files will ensure a smooth working of visualization and the shiny app.
+    
+    
+* Methodolgy used:
+   * Data is read and cleaned in R.
+   * A shiny app is built to capture the visualization
+      * First, a ggplot to capture the bleaching trend across different sites
+      * Second, a leaflet map to represent the sites location on a map
