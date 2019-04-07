@@ -19,3 +19,7 @@ https://vpatil.shinyapps.io/coral_bleaching_great_barrier_reef
    * A shiny app is built to capture the visualization
       * First, a ggplot to capture the bleaching trend across different sites
       * Second, a leaflet map to represent the sites location on a map
+
+* Preview of the app:
+
+![](images/preview.PNG)
