@@ -1,6 +1,4 @@
-# Name: Vikram Hanumanthrao Patil
-# ID: 29389690
-# Assignment-2: FIT5147
+# Name: Vikram H Patil
 ####################################
 
 # setting the working directory where the file is present
@@ -13,7 +11,8 @@ library(shinythemes)
 
 ##############################################################################################################
 # 1 - Reading the data.
-df <- read.csv("assignment-02-data-formated.csv") # reading the csv file
+
+df <- read.csv("bleaching-data.csv") # reading the csv file
 
 colnames(df)[6] <- "bleaching" # changing the column name from value --> bleaching
 df$bleaching<-sapply(df$bleaching, function(x) as.numeric(gsub("%", "", x))) #removing %symbol from bleaching
