@@ -2,7 +2,7 @@
 
 The project is about coral bleaching data for 8 sites in the Great Barrier Reef(Australia). It gives the % of bleaching for different kinds of coral: hard corals, sea pens, blue corals, soft corals and sea fans over the last 8 years.
 
-* Alternatively, the app is published and can be accessed in below link:
+* Alternatively, the app is published and can be accessed in below link:                 
 [click on the link](https://vpatil.shinyapps.io/coral_bleaching_great_barrier_reef)
 
 * To access the code and run the application locally, follow below steps:
